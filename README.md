@@ -1,6 +1,10 @@
 ## About Project
 this is a project made to complete a final project in training at https://kartuprakerja.babastudio.com/ with a title "Mengimplementasikan pemrograman terstruktur berorientasi objek,menggunakan library atau komponen pre existing dalam pembuatan website e commerce sebagai desainer web"
 
+## Problems encountered in working on the project
+<li>because I'm still a beginner I failed to deploy on github so I re-deployed on netlify</li>
+<li>and some errors in manufacture such as different versions etc</li>
+
 
 
 # Getting Started with Create React App
