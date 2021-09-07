@@ -1,3 +1,8 @@
+## About Project
+this is a project made to complete a final project in training at https://kartuprakerja.babastudio.com/ with a title "Mengimplementasikan pemrograman terstruktur berorientasi objek,menggunakan library atau komponen pre existing dalam pembuatan website e commerce sebagai desainer web"
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
