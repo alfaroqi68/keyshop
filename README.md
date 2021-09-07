@@ -2,7 +2,7 @@
 this is a project made to complete a final project in training at https://kartuprakerja.babastudio.com/ with a title "Mengimplementasikan pemrograman terstruktur berorientasi objek,menggunakan library atau komponen pre existing dalam pembuatan website e commerce sebagai desainer web"
 
 ## Problems encountered in working on the project
-<li> because I'm still a newbie I failed to deploy on github the image didn't show up, so I re-deployed on netlify </li>
+<li> because I'm still a beginner I failed to deploy on GitHub Pages the image didn't show up, so I re-deployed in netlify like the one in the tutorial</li>
 <li>and some errors in manufacture such as different versions etc</li>
 
 
